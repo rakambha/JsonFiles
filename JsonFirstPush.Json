@@ -1,0 +1,73 @@
+ {
+        "id" : 317117533,
+        "name" : "Year",
+        "dataTypeName" : "number",
+        "description" : "",
+        "fieldName" : "year",
+        "position" : 1,
+        "renderTypeName" : "number",
+        "tableColumnId" : 33023980,
+        "width" : 148,
+        "cachedContents" : {
+          "largest" : "2016",
+          "non_null" : 10296,
+          "average" : "2007.5",
+          "null" : 0,
+          "top" : [ {
+            "item" : "2016",
+            "count" : 20
+          }, {
+            "item" : "2015",
+            "count" : 19
+          }, {
+            "item" : "2014",
+            "count" : 18
+          }, {
+            "item" : "2013",
+            "count" : 17
+          }, {
+            "item" : "2012",
+            "count" : 16
+          }, {
+            "item" : "2011",
+            "count" : 15
+          }, {
+            "item" : "2010",
+            "count" : 14
+          }, {
+            "item" : "2009",
+            "count" : 13
+          }, {
+            "item" : "2008",
+            "count" : 12
+          }, {
+            "item" : "2007",
+            "count" : 11
+          }, {
+            "item" : "2006",
+            "count" : 10
+          }, {
+            "item" : "2005",
+            "count" : 9
+          }, {
+            "item" : "2004",
+            "count" : 8
+          }, {
+            "item" : "2003",
+            "count" : 7
+          }, {
+            "item" : "2002",
+            "count" : 6
+          }, {
+            "item" : "2001",
+            "count" : 5
+          }, {
+            "item" : "2000",
+            "count" : 4
+          }, {
+            "item" : "1999",
+            "count" : 3
+          } ],
+          "smallest" : "1999",
+          "sum" : "20669220"
+        },
